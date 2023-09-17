@@ -1,7 +1,7 @@
 # Flappy Bird RL
 An implementation of the famous game "Flappy Bird" using Reinforcement Learning algorithms
 
-<img src="images/flappy-bird.jpg" width="180" height="400">
+<img src="images/flappy-bird.jpg" width="200" height="400">
 
 ## Project Content
 1 - Selection and Implementation of two off-policy agents: A Q-Learning and Expected SARSA agent have been implemented and tested in a text verison environment of Flappy Bird. Both agents were given an epislon-decaying functionality when selecting an action in the espilon-greedy context.
